@@ -1,0 +1,3 @@
+[submodule "Assets\\Hydra\\HydraCommon"]
+	path = Assets\\Hydra\\HydraCommon
+	url = git@bitbucket.org:thisishydra/hydracommon.git
